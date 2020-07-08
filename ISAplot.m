@@ -6,9 +6,9 @@ clc
 % this is a code that calls a function ISAfunction to solve for atmospheric
 % properties at various altitudes and display the results in a plot
 
-%% authors
-% Rohith Prem Maben(rohma417)
-%Yuvarajendra Anjaneya Reddy(yuvan983)
+%% author
+% Rohith Prem Maben
+
 
 %% constants for ICAO atmospheric calculator
 
